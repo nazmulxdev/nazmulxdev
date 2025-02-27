@@ -11,7 +11,7 @@
       I'm Md Nazmul Hossen, a Front-end dev.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+push+code+like+a+devil+😈+but+I+debug+like+an+angel+😇"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+pushCode+like+a+devil+😈+but+I+debugLike+an+angel+😇"
         alt="Typing SVG"
       />
     </samp>
