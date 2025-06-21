@@ -8,7 +8,7 @@
     <samp>
       <b>Welcome</b>
       <br />
-      I'm Md Nazmul Hossen, a Front-end dev.
+      I'm Md Nazmul Hossen, a MERN Stack Developer | JavaScript Enthusiast | Building Full-Stack Web Experiences.
       <br />
       <img
         src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=I+push+code+like+a+devil+%F0%9F%98%88+but+I+debug+like+an+angel+%F0%9F%98"
