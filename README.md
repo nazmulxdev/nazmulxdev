@@ -3,11 +3,11 @@
   
   <img src="https://github.com/nazmulxdev/nazmulxdev/blob/main/YouTube%20Banner%20-%20Md%20Nazmul%20Hossen.png?raw=true" width="100%" />
 
-  <p align="start">
+  <p align="center">
     <samp>
-      <b>Welcome</b>
+      <h1>Welcome</h1>
       <br />
-      <h1 align="center">Hi <img src = "https://github.com/nazmulxdev/nazmulxdev/blob/main/hi.gif?raw=true" width="50px" height="50px">, I'm Md Nazmul Hossen</h1>  
+      <h2 align="center">Hi <img src = "https://github.com/nazmulxdev/nazmulxdev/blob/main/hi.gif?raw=true" width="50px" height="50px">, I'm Md Nazmul Hossen</h2>  
        <h3 align="center">A passionate MERN Stack Developer from BD</h3>
       <br />
       <img
