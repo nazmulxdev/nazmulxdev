@@ -63,33 +63,27 @@
 <br/>
 
 <div style="max-width: 800px; margin: auto; padding: 15px;">
-  <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px; text-align: left;">My GitHub Stats</h2>
-  <div align="center">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
-      <tr>
-        <td style="width: 50%;">
-          <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; display: flex; justify-content: center; align-items: center; height: 180px; padding: 10px;">
-            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-          </div>
-        </td>
-        <td style="width: 50%;">
-          <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; display: flex; justify-content: center; align-items: center; height: 180px; padding: 10px;">
-            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmulxdev&theme=tokyonight&hide_border=true"/>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td style="width: 50%;">
-          <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; display: flex; justify-content: center; align-items: center; height: 180px; padding: 10px;">
-            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-          </div>
-        </td>
-        <td style="width: 50%;">
-          <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; display: flex; justify-content: center; align-items: center; height: 180px; padding: 10px;">
-            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulxdev&bg_color=0f172a&color=38bdf8&line=f472b6&point=facc15&area=true&hide_border=true"/>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px; text-align: left;">My GitHub Stats</h2>
+  <div align="center">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+      <tbody>
+        <tr>
+          <td style="width: 50%; height: 200px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center; vertical-align: middle;">
+            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+          </td>
+          <td style="width: 50%; height: 200px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center; vertical-align: middle;">
+            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmulxdev&theme=tokyonight&hide_border=true">
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; height: 200px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center; vertical-align: middle;">
+            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+          </td>
+          <td style="width: 50%; height: 200px; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 10px; text-align: center; vertical-align: middle;">
+            <img style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulxdev&bg_color=0f172a&color=38bdf8&line=f472b6&point=facc15&area=true&hide_border=true">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </div>
