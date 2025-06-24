@@ -4,6 +4,8 @@
     <strong><samp>「</samp></strong>
   </p>
 
+  <img src="https://github.com/nazmulxdev/nazmulxdev/blob/main/YouTube%20Banner%20-%20Md%20Nazmul%20Hossen.png?raw=true" width="100%" />
+
   <p align="center">
     <samp>
       <b>Welcome</b>
