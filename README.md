@@ -16,8 +16,8 @@
       About Me <img src="https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px" style="vertical-align: middle;">
   </h2>
   <table style="width: 100%; border: none;">
-      <tr>
-          <td style="vertical-align: top; padding-right: 20px;">
+      <tr style="vertical-align: middle;">
+          <td style="width: 60%; padding-right: 20px;">
               <ul style="list-style: none; padding-left: 0; margin-top: 0;">
                   <li style="margin-bottom: 10px;">🎓 I am currently pursuing a B.Sc. in Electrical and Electronic Engineering at <strong>Hajee Mohammad Danesh Science and Technology University</strong>.</li>
                   <li style="margin-bottom: 10px;">🚀 Over the past six months, I have gained practical experience in full stack web development through the <strong>Programming Hero</strong> platform.</li>
@@ -27,8 +27,8 @@
                   <li style="margin-bottom: 10px;">🌱 I’m currently exploring <strong>NEXT.JS</strong>.</li>
               </ul>
           </td>
-          <td style="width: 55%; text-align: center; vertical-align: center;">
-              <img width="100%" alt="Developer Illustration" src="https://raw.githubusercontent.com/nazmulxdev/nazmulxdev/fce75a499df8aff6a0665b8d0abe9e533ed093d4/git-header.svg" />
+          <td style="width: 40%; text-align: center;">
+              <img width="100%" style="max-width: 350px;" alt="Developer Illustration" src="https://raw.githubusercontent.com/nazmulxdev/nazmulxdev/fce75a499df8aff6a0665b8d0abe9e533ed093d4/git-header.svg" />
           </td>
       </tr>
   </table>
@@ -53,7 +53,7 @@
 </div>
 
 <div style="max-width: 800px; margin: auto; padding: 15px; text-align: left;">
-  <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Social Media Links:</h2>
+  <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Social Media Links</h2>
   <p align="center">
       <a href="https://linkedin.com/in/nazmulxdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="https://www.facebook.com/nazmulxdev/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -66,13 +66,13 @@
   <h2 style="border-bottom: 2px solid #333; padding-bottom: 5px; text-align: left;">My GitHub Stats</h2>
   <div align="center">
     <table style="width: 100%; border: none;">
-      <tr>
-          <td style="width: 50%; padding: 10px;"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></td>
-          <td style="width: 50%; padding: 10px;"><img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmulxdev&theme=tokyonight&hide_border=true"/></td>
+      <tr style="vertical-align: middle;">
+          <td style="width: 50%; padding: 10px;"><img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/></td>
+          <td style="width: 50%; padding: 10px;"><img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazmulxdev&theme=tokyonight&hide_border=true"/></td>
       </tr>
-      <tr>
-          <td style="width: 50%; padding: 10px;"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></td>
-          <td style="width: 50%; padding: 10px;"><img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulxdev&bg_color=0f172a&color=38bdf8&line=f472b6&point=facc15&area=true&hide_border=true"/></td>
+      <tr style="vertical-align: middle;">
+          <td style="width: 50%; padding: 10px;"><img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></td>
+          <td style="width: 50%; padding: 10px;"><img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulxdev&bg_color=0f172a&color=38bdf8&line=f472b6&point=facc15&area=true&hide_border=true"/></td>
       </tr>
     </table>
   </div>
