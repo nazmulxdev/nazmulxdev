@@ -1,18 +1,127 @@
-# 💫 About Me:
-🚀 Nazmul | MERN Stack Developer<br>🧠 EEE Student @ HSTU | 🏙️ Based in Dhaka, BD<br><br>I’m a passionate full-stack web developer with a deep focus on the MERN stack (MongoDB, Express, React, Node.js). Currently pursuing my B.Sc. in Electrical & Electronic Engineering (EEE) at Hajee Mohammad Danesh Science & Technology University (HSTU). I love turning real-world problems into full-fledged, scalable digital solutions.<br><br>🔭 I’m currently working on:<br>Rapid Parcel — a nationwide parcel delivery platform for Bangladesh<br>🚚 Features: region-based service centers, interactive delivery maps, secure auth, real-time form validation, and more.<br><br>👯 I’m looking to collaborate on:<br>Innovative full-stack apps 🌐<br><br>Open source MERN projects 🤝<br><br>Firebase + React heavy frontend experiences<br><br>🤝 I’m looking for help with:<br>Backend architecture best practices<br><br>Optimization for performance and security<br><br>🌱 I’m currently learning:<br>Advanced Node.js & JWT security<br><br>React performance tuning<br><br>Firebase admin SDK & cloud functions<br><br>💬 Ask me about:<br>MERN Stack projects<br><br>Firebase auth, Tailwind CSS, DaisyUI<br><br>Parcel tracking & location-based features<br><br>Building production-ready web apps<br><br>⚡ Fun fact:<br>I push code like devil but debug like an angel.
 
+<div>
+  <p align="left">
+    <strong><samp>「</samp></strong>
+  </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nazmulhossen285) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nazmulxdev) 
+  <p align="center">
+    <samp>
+      <b>Welcome</b>
+      <br />
+      I'm Md Nazmul Hossen, a MERN Stack Developer | JavaScript Enthusiast | Building Full-Stack Web Experiences.
+      <br />
+      <img
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=I+push+code+like+a+devil+%F0%9F%98%88+but+I+debug+like+an+angel+%F0%9F%98"
+        alt="Typing SVG"
+      />
+    </samp>
+  </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nazmulxdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p align="right">
+    <strong><samp>」</samp></strong>
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=nazmulxdev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <details align="left">
+    <summary>
+      <samp><b>More Info</b></samp>
+    </summary>
+    <br />
+    <p align="center">
+      <samp>
+        [ <a href="">about me</a> •
+        <a href="">projects</a> •
+        <a href="https://www.linkedin.com/in/nazmulxdev/">contact</a> ]
+      </samp>
+    </p>
+    <br />
+    <div style="max-width: 800px; margin: 0 auto;">
+      <table style="width: 100%; text-align: center;">
+        <!-- First row with GitHub Stats and Streaks -->
+        <tr>
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
+            <a href="#github-stats">
+              <img
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
+            <a href="#streak-stats">
+              <img
+                alt="GitHub Streak"
+                src="https://streak-stats.demolab.com/?user=nazmulxdev&theme=tokyonight&hide_border=true"
+              />
+            </a>
+          </td>
+        </tr>
+        <!-- Second row with Top Languages -->
+        <tr>
+          <td style="width: 50%; padding: 10px;">
+            <a href="#top-languages">
+              <img
+                alt="Top Languages"
+                 height="160"
+                width="350"
+                style="display: block; margin: 0 auto;"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulxdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px;">
+            <a href="#streak-stats-graph">
+              <img
+                alt="GitHub Streak graph"
+                 height="160"
+                width="500"
+                style="display: block; margin: 0 auto;"
+                src="https://github-readme-activity-graph.vercel.app/graph?username=nazmulxdev&bg_color=0f172a&color=38bdf8&line=f472b6&point=facc15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
+              />
+            </a>
+          </td>
+        </tr>
+        <!-- Third row with Tech Stack -->
+        <tr>
+          <td colspan="2" style="padding: 10px;">
+            <p><b>Tech Stack:</b></p>
+            <p>
+              <!-- Language and tools badges -->
+              <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+              <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+              <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+              <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+              <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+              <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+              <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+              <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+              <img src="https://img.shields.io/badge/Chart.js-F7A1A1?style=for-the-badge&logo=chart.js&logoColor=black" alt="Chart.js" />
+              <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+              <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+            </p>
+          </td>
+        </tr>
+        <!-- Fourth row with LeetCode and HackerRank badges -->
+        <tr>
+          <td style="width: 50%; padding: 10px;">
+            <a href="https://leetcode.com/u/nazmul-devil/">
+              <img
+                src="https://img.shields.io/badge/LeetCode-nazmulxdev-brightgreen?style=for-the-badge&logo=Leetcode"
+                alt="Leetcode Profile"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px;">
+            <a href="https://www.hackerrank.com/0xrokib">
+              <img
+                src="https://img.shields.io/badge/HackerRank-nazmulxdev-brightgreen?style=for-the-badge&logo=HackerRank"
+                alt="HackerRank Profile"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
+</div>
