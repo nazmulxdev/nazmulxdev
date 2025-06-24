@@ -3,11 +3,12 @@
   
   <img src="https://github.com/nazmulxdev/nazmulxdev/blob/main/YouTube%20Banner%20-%20Md%20Nazmul%20Hossen.png?raw=true" width="100%" />
 
-  <p align="center">
+  <p align="start">
     <samp>
       <b>Welcome</b>
       <br />
-      I'm Md Nazmul Hossen, a MERN Stack Developer | JavaScript Enthusiast | Building Full-Stack Web Experiences.
+      <h1 align="center">Hi <img src = "https://github.com/nazmulxdev/nazmulxdev/blob/main/hi.gif?raw=true" width="50px" height="50px">, I'm Md Nazmul Hossen</h1>  
+       <h3 align="center">A passionate MERN Stack Developer from BD</h3>
       <br />
       <img
         src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=I+push+code+like+a+devil+%F0%9F%98%88+but+I+debug+like+an+angel+%F0%9F%98"
