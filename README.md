@@ -4,7 +4,7 @@
     <strong><samp>「</samp></strong>
   </p>
 
-  <img src="https://github.com/nazmulxdev/nazmulxdev/blob/main/YouTube%20Banner%20-%20Md%20Nazmul%20Hossen.png?raw=true" width="100%" height="200px" />
+  <img src="https://github.com/nazmulxdev/nazmulxdev/blob/main/YouTube%20Banner%20-%20Md%20Nazmul%20Hossen.png?raw=true" width="100%" height="640px" />
 
   <p align="center">
     <samp>
